@@ -1,4 +1,4 @@
-EDAV Project \[Fall 2018\]: How America Flies ?
+Exploratory Data Analysis Visualisation Project : Fall 2018 : How America Flies ?
 ================
 
 Part 1. Introduction
