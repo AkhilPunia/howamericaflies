@@ -933,7 +933,7 @@ ggplot(ms_df) + geom_mosaic(aes(x=product(DistanceGroup,Reporting_Airline)),fill
 -   Some carriers such as UA, WN,YX, EV, MQ, OH etc. have lesser number of flights servicing long distance flights.
 -   OO ( or SkyWest Airlines ) primarily services small distance flights.
 
-5. Executive Summary
+Part 5. Executive Summary
 ====================
 
 The exhaustive results of our analysis can be broadly summed up by the three graphs below.
